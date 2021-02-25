@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\yousra\Desktop\Project1\Générateur\Générateur\main.c(6,21): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Générateur.vcxproj -> C:\Users\yousra\Desktop\Project1\Générateur\Debug\Générateur.exe
