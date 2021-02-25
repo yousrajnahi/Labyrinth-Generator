@@ -1,1 +1,1 @@
-# G-n-rateur-de-labyrinthe
+# Generateur-de-labyrinthe
