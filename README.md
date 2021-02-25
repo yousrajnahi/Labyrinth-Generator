@@ -1,2 +1,2 @@
 # Generateur-de-labyrinthe
-![labyrinthe gif](https://user-images.githubusercontent.com/77071173/109231914-a24bb580-77c7-11eb-90a7-e842a34ba2eb.gif)
+![labyrinthe gif](https://user-images.githubusercontent.com/77071173/109232765-1b97d800-77c9-11eb-8c5c-908c9e854300.gif)
