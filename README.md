@@ -1,8 +1,9 @@
 # Labyrinth-Generator
 
-Algorithme de génération: Parcours en profondeur aléatoire (randomized DFS) 
-
-                                                                             
+Algorithme de génération: Parcours en profondeur aléatoire (randomized DFS).
+                                                                      
+Résultats d'exécution:
+                                                                                 
 L = 11, pix = 40
                                                                                                               
 ![labyrinthhe giiff](https://user-images.githubusercontent.com/77071173/109236764-8ac4fa80-77d0-11eb-9065-042e897ca1ee.gif)
