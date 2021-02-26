@@ -1,6 +1,7 @@
 # Labyrinth-Generator
                                                                                                                            
  ////////////////////////////////// L = 23, pix = 30 /////////////////////////////////////
+                                                                                                                          
 ![labyrinthe giiff](https://user-images.githubusercontent.com/77071173/109235614-4d5f6d80-77ce-11eb-9efe-9607143bb23d.gif)
 
 
