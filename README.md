@@ -1,5 +1,7 @@
 # Labyrinth-Generator
 
+Algorithme de génération: Parcours en profondeur aléatoire (randomized DFS) 
+
                                                                              
 L = 11, pix = 40
                                                                                                               
