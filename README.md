@@ -1,7 +1,7 @@
 # Labyrinth Generator project
 
 
-Welcome to the labyrinth Generator project. This project provides a C program for generating and solving a labyrinth using SDL2.
+Welcome to the labyrinth Generator project. This project provides a C program for generating and solving a labyrinth using SDL2. The generation algorithm used in this project is randomized DFS (depth-first search). This algorithm uses a recursive depth-first traversal to randomly generate a labyrinth by removing the walls between visited cells randomly. This creates winding paths and ensures that all cells in the labyrinth are accessible.
 
 ## Dependencies
 
@@ -37,16 +37,8 @@ The `fonctions.h` header file contains function prototypes and global variables 
 
 The program uses the SDL2 library to create a window and handle user input. It also uses the SDL2_image and SDL2_ttf libraries to load and display images and text. The `fonctions.h` header file contains function prototypes and global variables used throughout the program. The `main` function initializes the program, processes user input, and contains the main game loop that updates and renders the labyrinth.
 
-
-
-
-
-
-
-
-Algorithme de génération: Parcours en profondeur aléatoire (randomized DFS).
                                                                       
-Résultats d'exécution:
+## Results
                                                                                  
 L = 11, pix = 40
                                                                                                               
