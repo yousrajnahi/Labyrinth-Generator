@@ -1,4 +1,48 @@
-# Labyrinth-Generator
+# Labyrinth Generator project
+
+
+Welcome to the labyrinth Generator project. This project provides a C program for generating and solving a labyrinth using SDL2.
+
+## Dependencies
+
+In order to use this program, you will need to have the following packages installed:
+
+- SDL2
+- SDL2_image
+- SDL2_ttf
+
+## Usage
+
+To run the program, compile the source code with a C compiler and run the executable file. The program will generate a random labyrinth and allow the user to navigate through it using the arrow keys.
+
+
+
+## File Structure
+
+The `fonctions.h` header file contains function prototypes and global variables used throughout the program. The functions included in this file are:
+
+- `connect_cell`: Connects two cells in the labyrinth by removing the wall between them.
+- `Initialisation_creation`: Initializes the program and creates the window and renderer. Returns a boolean value indicating if the program is running.
+- `newSDL_Rect`: Creates and returns a new SDL_Rect structure with the specified parameters.
+- `rand_vois`: Returns a random neighboring cell of the specified cell.
+- `Quiter_detruire`: Frees resources and quits the program.
+- `setup`: Initializes variables and sets up the labyrinth.
+- `processInput`: Processes user input.
+- `rand_vois_nonvi`: Returns a random unvisited neighboring cell of the specified cell.
+- `render`: Renders the labyrinth to the window.
+- `Labyrinthe`: Generates the labyrinth using the recursive backtracking algorithm.
+- `verifier`: Returns a boolean value indicating if the specified cell has been visited.
+
+## Additional Notes
+
+The program uses the SDL2 library to create a window and handle user input. It also uses the SDL2_image and SDL2_ttf libraries to load and display images and text. The `fonctions.h` header file contains function prototypes and global variables used throughout the program. The `main` function initializes the program, processes user input, and contains the main game loop that updates and renders the labyrinth.
+
+
+
+
+
+
+
 
 Algorithme de génération: Parcours en profondeur aléatoire (randomized DFS).
                                                                       
