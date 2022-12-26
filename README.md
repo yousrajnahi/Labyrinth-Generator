@@ -6,7 +6,7 @@ Welcome to the labyrinth Generator project. This project provides a C program fo
                                                                                  
 L = 11, pix = 40
 
-<img src=![labyrinthhe giiff](https://user-images.githubusercontent.com/77071173/109236764-8ac4fa80-77d0-11eb-9065-042e897ca1ee.gif) alt="image" style="display:block; margin:auto">
+<img src=https://user-images.githubusercontent.com/77071173/109236764-8ac4fa80-77d0-11eb-9065-042e897ca1ee.gif alt="image" style="display:block; margin:auto">
                                                                                                               
 
 
