@@ -1,25 +1,27 @@
 # Labyrinth Generator project
 
 
-Welcome to the labyrinth Generator project. This project provides a C program for generating and solving a labyrinth using SDL2. The generation algorithm used in this project is randomized DFS (depth-first search). This algorithm uses a recursive depth-first traversal to randomly generate a labyrinth by removing the walls between visited cells randomly. This creates winding paths and ensures that all cells in the labyrinth are accessible.
+Welcome to the labyrinth Generator project. This project provides a C program for generating and solving a labyrinth using SDL2. The generation algorithm used in this project is randomized DFS (depth-first search). This algorithm uses a recursive depth-first traversal to randomly generate a labyrinth by removing the walls between visited cells randomly. This creates winding paths and ensures that all cells in the labyrinth are accessible. These three examples of labyrinths have lengths (L) equal to 11, 23, and 119, and pixel resolutions (pix) of 40, 30, and 3, respectively.
 
                                                                                  
-L = 11, pix = 40
 
 
-                                                                                                              
+<p align="center" width="100%">
+    <img width="15%" src="https://user-images.githubusercontent.com/77071173/109236764-8ac4fa80-77d0-11eb-9065-042e897ca1ee.gif"> 
+    <img width="25%" src="https://user-images.githubusercontent.com/77071173/109235614-4d5f6d80-77ce-11eb-9efe-9607143bb23d.gif"> 
+    <img width="33%" src="https://user-images.githubusercontent.com/77071173/109233751-b513b980-77ca-11eb-996f-737070a723fc.gif"> 
+</p>
 
-![labyrinthe giiff](https://user-images.githubusercontent.com/77071173/109236764-8ac4fa80-77d0-11eb-9065-042e897ca1ee.gif)
 
 
 
-L = 23, pix = 30
+
                                                                                                                           
-![labyrinthe giiff](https://user-images.githubusercontent.com/77071173/109235614-4d5f6d80-77ce-11eb-9efe-9607143bb23d.gif)
 
-L = 119, pix = 3 
 
-![labyrinthe giff](https://user-images.githubusercontent.com/77071173/109233751-b513b980-77ca-11eb-996f-737070a723fc.gif)
+
+
+
 
 
 ## Dependencies
